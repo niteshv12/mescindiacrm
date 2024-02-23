@@ -181,7 +181,7 @@
 										<li><a href="images/RFP/Travel Agency.pdf" target="_blank">Travel Agency</a></li>
 									</ul>
 								</li>
-								<li><a href="contact.php">Contact Test</a></li>
+								<li><a href="contact.php">Contact Test Vishal</a></li>
 							</ul>
 						</div>
 					</div>
